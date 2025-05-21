@@ -15,8 +15,9 @@ I am a Master of Science in Computer Science student at Annamalai University, wi
 ---
 
 ## 📊 GitHub Stats  
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)  
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gaurav4502&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav4502&layout=compact&theme=tokyonight)
+
 
 ---
 
